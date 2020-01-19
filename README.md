@@ -13,3 +13,5 @@ The game only supports portrait mode because most JRPG on mobile does that.
 
 3 Third tab holds all settings(user defaults)
 											You can change volume of BGM or turn it off. Segment 										controls memorizes the side you pick and will change cell 										background. The last line is a button that takes you to “official 										website”
+
+View DEMO to see what this game looks like.
