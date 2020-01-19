@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  GundamMobile
+
+  Created by YiChao Qin on 12/2/19.
+  Copyright © 2019 YiChao Qin. All rights reserved.
+*/
+
+
+"str_garage" = "格納庫";
+"str_setting" = "設定する";
+"str_draw" = "カードを引く";
+"str_returntogarage" = "格納庫に戻る";
+"str_Alert" = "警告";
+"str_Delete" = "削除";
+"str_Cancel" = "キャンセルする";
+"str_checkdelete" = "この操作を削除してもよろしいですか？";
+"str_hightolow" = "コスト：高から低";
+"str_lowtohigh" = "コスト：低から高";
+"str_reset" = "リセットする";
+"str_checkreset" = "リメイクしてもよろしいですか？";
+"str_Mind" = "ヒント";
+"str_volume" = "ボリューム";
+"str_musicswitch" = "音乐开关";
+"str_launchoptions" = "音楽スイッチ";
+"str_vistoursite" = "当社のウェブサイトをご覧ください";
+"str_EF" = "地球連邦";
+"str_ZN" = "ジオンこうこく";
+"str_checkweb" = "外部のWebサイトにアクセスしますか？";
+"str_Confirm" = "OK";
+"str_checkMusic" = "すでにオープンな音楽";
+
+//高达名字
+"str_gundamname_Bellca" = "ベルガ・ギロス";//340c
+"str_gundamname_CrossX1mod" = "クロスボーン・ガンダムX1改・改";//380
+"str_gundamname_CrossX3" = "クロスボーン・ガンダムX3";//380
+"str_gundamname_OLGCannon" = "G・キャノン";//340
+"str_gundamname_Ball" = "ボール";//160
+"str_gundamname_Dom" = "ドム";
+"str_gundamname_G_Tank" = "ガンタンク";
+"str_gundamname_GLine" = "G-LINE";
+"str_gundamname_GM_Command" = "ジム（指揮官用）";
+"str_gundamname_GM_Defense" = "防卫型ジム";
+"str_gundamname_GM_Land" = "陸戦型ジム";
+"str_gundamname_GM_Light" = "ジム・ライトアーマー";
+"str_gundamname_GM_Sniper" = "ジム・スナイパー";
+"str_gundamname_GM_Special" = "強襲型ガジム";
+"str_gundamname_GM3" = "ジム3";
+"str_gundamname_Hi_Gelugugu" = "高機動型ゲルググ";
+"str_gundamname_Hi_ZAKU" = "高機動型ザク";
+"str_gundamname_Ifrite" = "イフリート改";
+"str_gundamname_Qiang" = "ギャン";
+"str_gundamname_Turtle" = "アッガイ";
+"str_gundamname_ZAKU_Cannon" = "ザクキャノン";
+"str_gundamname_ZAKU1" = "ザク1";
+"str_gundamname_ZAKU2S" = "ザクⅡS型";
+
+"str_gundamname_Skygrass" = "アマクサ";
+"str_gundamname_F91" = "ガンダムF91（ハリソン・マディン専用機）";
+"str_gundamname_X1Full" = "クロスボーン・ガンダムX1フルクロス";
+
+"str_gundamname_RichelB" = "リゼル（ディフェンサーbユニット）";
+"str_gundamname_Banshee_EF" = "バンシィ・ノルン";

@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  GundamMobile
+
+  Created by YiChao Qin on 11/29/19.
+  Copyright © 2019 YiChao Qin. All rights reserved.
+*/
+
+"str_garage" = "机库";
+"str_setting" = "设置";
+"str_draw" = "抽卡";
+"str_returntogarage" = "返回机库";
+"str_Alert" = "警告";
+"str_Delete" = "删除";
+"str_Cancel" = "取消";
+"str_checkdelete" = "确定要删除吗，此操作不可挽回";
+"str_hightolow" = "花费：从高到低";
+"str_lowtohigh" = "花费：从低到高";
+"str_reset" = "重置";
+"str_checkreset" = "确定要重制吗？";
+"str_Mind" = "提示";
+"str_volume" = "音量";
+"str_musicswitch" = "音乐开关";
+"str_launchoptions" = "启动画面";
+"str_vistoursite" = "访问我们的网站";
+"str_EF" = "地球联邦";
+"str_ZN" = "吉翁";
+"str_checkweb" = "即将访问外部网站，确定吗？";
+"str_Confirm" = "确定";
+"str_checkMusic" = "已经打开音乐";
+
+//高达名字
+"str_gundamname_Bellca" = "贝尔卡·基洛斯";//340c
+"str_gundamname_CrossX1mod" = "海盗高达X1改";//380
+"str_gundamname_CrossX3" = "海盗高达X3";//380
+"str_gundamname_OLGCannon" = "G加农";//340
+"str_gundamname_Ball" = "铁球";//160
+"str_gundamname_Dom" = "大魔";
+"str_gundamname_G_Tank" = "钢坦克";
+"str_gundamname_GLine" = "吉莱";
+"str_gundamname_GM_Command" = "吉姆指挥官型";
+"str_gundamname_GM_Defense" = "防卫型吉姆";
+"str_gundamname_GM_Land" = "陆战型吉姆";
+"str_gundamname_GM_Light" = "轻量化吉姆";
+"str_gundamname_GM_Sniper" = "吉姆狙击型";
+"str_gundamname_GM_Special" = "强袭特化吉姆";
+"str_gundamname_GM3" = "吉姆3";
+"str_gundamname_Hi_Gelugugu" = "高机动型格鲁古古";
+"str_gundamname_Hi_ZAKU" = "高扎古";
+"str_gundamname_Ifrite" = "伊芙里特改";
+"str_gundamname_Qiang" = "强人";
+"str_gundamname_Turtle" = "龟霸";
+"str_gundamname_ZAKU_Cannon" = "扎古加农";
+"str_gundamname_ZAKU1" = "扎古1";
+"str_gundamname_ZAKU2S" = "扎古2S";
+
+"str_gundamname_Skygrass" = "天草";
+"str_gundamname_F91" = "F91高达";
+"str_gundamname_X1Full" = "海盗高达X1全武装";
+
+"str_gundamname_RichelB" = "里歇尔B";
+"str_gundamname_Banshee_EF" = "报丧女妖";
