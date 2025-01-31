@@ -1,5 +1,5 @@
 # GundamGame
-Support Chinese and Japanese sorry for inconvenience.
+Support Chinese and Japanese.
 
 The game only supports portrait mode because most JRPG on mobile does that.
 
@@ -15,3 +15,4 @@ The game only supports portrait mode because most JRPG on mobile does that.
 											You can change volume of BGM or turn it off. Segment 										controls memorizes the side you pick and will change cell 										background. The last line is a button that takes you to “official 										website”
 
 View DEMO to see what this game looks like.
+![Alt Text](DEMO/Screen Shot 2020-01-19 at 4.05.41 PM.png)
